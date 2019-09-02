@@ -4,7 +4,7 @@
 My Environment : Python3, MacOS ( or UBUNTU )<br>
 1. Install pyaudio using pip3 if you not already listener service for microphone.
 
-> pip install --upgrade pyaudio 
+> pip install --upgrade pyaudio <br>
 > pip install --upgrade google_cloud_speech -t google_cloud_speech/.
 
 <br>2. Note that if you can't install pyaudio, should be prepared to portaudio. please, follow step below.
