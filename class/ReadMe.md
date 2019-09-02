@@ -9,7 +9,10 @@ My Environment : Python3, MacOS ( or UBUNTU )<br>
 
 <br>2. Note that if you can't install pyaudio, should be prepared to portaudio. please, follow step below.
 
-> apt install portaudio
+> apt install portaudio <br>
+
+if you take the mac os
+> brew install portaudio
 
 <br>3. Note that if you use version 2 of python, you have to insert to "from \_\_future__ import division"
 <br>4. This script need to adding path of 'voice_recognition.py' into 'voice_recognition_service.py'.
