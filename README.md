@@ -5,7 +5,7 @@ recognize voice streaming data using Google Cloud Platform Voice to Text API
 **Aim : This service is to save a like spot for you.**<br>
 <br>
 ### Architecture <br>
-![serverlessRecognizeVoice](https://github.com/oryondark/VoiceRecognitionGCP/raw/master/sample/ServerlessVoiceRecognition.pdf)
+![serverlessRecognizeVoice](https://github.com/oryondark/VoiceRecognitionGCP/blob/master/sample/ServerlessVoiceRecognition.png)
 
 ### Describe our platform <br>
 This paltform had be made on AWS Cloud service(Lambda, S3, DynamoDB) with Google Cloud Platform(GCP) <br>
