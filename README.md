@@ -2,7 +2,7 @@
 recognize voice streaming data using Google Cloud Platform Voice to Text API 
 <br>
 <br>
-**Aim : This service is to save a like spot for you.**<br>
+**Aim : This service is to save a spot your like.**<br>
 <br>
 ### Architecture <br>
 ![serverlessRecognizeVoice](https://github.com/oryondark/VoiceRecognitionGCP/blob/master/sample/ServerlessVoiceRecognition.png)
